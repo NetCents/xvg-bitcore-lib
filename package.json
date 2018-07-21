@@ -1,7 +1,7 @@
 {
   "name": "xvg-bitcore-lib",
   "version": "0.15.0",
-  "description": "A pure and powerful JavaScript Verge library.",
+  "description": "A pure and powerful JavaScript Verge library, based on bitcore 0.15",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
